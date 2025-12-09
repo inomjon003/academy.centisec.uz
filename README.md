@@ -1,3 +1,3 @@
-# academy.centisec.uz
+# student academy.centisec.uz
 https://academy.centisec.uz
 
